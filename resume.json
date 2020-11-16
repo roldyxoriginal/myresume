@@ -1,0 +1,86 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Rodrigo Daniel Roldan",
+    "label": "sysadmin",
+    "image": "",
+    "email": "roldyx@gmail.com",
+    "phone": "(54) 9 11-69359705",
+    "url": "",
+    "summary": "Rodrigo es argentino, nacido en la ciudad de Lomas de Zamora, Buenos Aires.",
+    "location": {
+      "address": "Paseo Colon 635",
+      "postalCode": "1000",
+      "city": "CABA",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "roldyxoriginal",
+        "url": "https://github.com/roldyxoriginal/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "AFIP",
+      "location": "CABA, Argentina",
+      "position": "Cloud Engineer",
+      "url": "https://www.afip.gob.ar/",
+      "startDate": "2008-10-01"
+    }
+  ],
+  "education": [
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Desarrollador",
+      "level": "Junior",
+      "keywords": [
+        "Python",
+        "Shell script",
+        "Docker",
+        "YAML"	  
+      ]
+    },
+    {
+      "name": "Operations",
+      "level": "Senior",
+      "keywords": [
+        "Docker",
+        "Ansible",
+        "SaltStack",
+        "Terraform",
+        "Kubernetes",
+	"OpenStack"  
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "medio"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
